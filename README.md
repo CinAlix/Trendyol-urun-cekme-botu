@@ -12,6 +12,10 @@ Kullanım:
 
 
 
+https://github.com/user-attachments/assets/05aa2bed-b0d1-4ff2-8df2-9b7aaf1d3c23
+
+
+
 İLETİŞİM
 
 https://t.me/cinali
