@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/82bafb5a-adf2-46a0-8fd6-67856ce80e3f)# Trendyol-urun--ekme-botu
+Trendyol-urun-ekme-botu
 Trendyoldan İstediğiniz Satıcının Ürünlerini Çekmeye Yarar
 
 Kullanım:
